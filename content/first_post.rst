@@ -5,6 +5,7 @@ First Post
 :modified: 2021-08-02 21:54
 :tags: meta, thoughts
 :category: meta
+:status: published
 :slug: my-first-post
 :author: Taylor McKay
 :summary: My first post on my new blog
