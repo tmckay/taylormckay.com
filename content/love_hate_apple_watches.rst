@@ -5,7 +5,7 @@ Love and Hate and the Apple Watch
 :modified: 2021-08-03 19:05
 :tags: apple, tech, review 
 :category: tech
-:status: draft
+:status: published
 :slug: love-hate-the-apple-watch 
 :author: Taylor McKay
 :summary: Why I love and hate the apple watch 
