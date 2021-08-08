@@ -31,6 +31,7 @@ We could find individuals retiring from skilled trades or individuals that are
 temporarily unable to do the typical work because of injury or sickness.
 
 How would a typical interaction go?
+-----------------------------------
 
 A user would have a project that they want to know more about. They would
 take pictures of the project and provide as much of a description as possible.
@@ -48,6 +49,7 @@ and inform, and are maybe unwilling to push the conversation. With this service
 people would be paid just to chat, so everyone's incentives are aligned.
 
 What makes this better?
+-----------------------
 
 One of the key things will be ratings that help great consultants get the
 recognition for their work and charge even more for it. It builds
@@ -56,6 +58,7 @@ be possible to match individuals seeking expertise with their region, project
 type and possibly price points i.e. the quality level of the project.
 
 Challenges
+----------
 
 Individuals that are skilled with construction might not be as comfortable
 on a video chat as they are on a job site. Recruiting talented experts and
